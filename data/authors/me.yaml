@@ -2,9 +2,9 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Mekias Kebede
+  given: Mekias
+  family: Kebede
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
@@ -13,16 +13,16 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Undergraduate Student @ UW Seattle
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
+  Mekias Kebede is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
   10,000 citations. Alex is passionate about pushing the boundaries of AI
   while ensuring ethical development.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Fred Hutchinson Cancer Research Center
+    url: https://research.fredhutch.org/etzioni/en.html
 
 links:
   - icon: at-symbol
@@ -40,47 +40,50 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - Machine Learning
   - Computer Vision
-  - Reinforcement Learning
+  - Optical Systems & Photonics
+  - Electrical Engineering (image processing)
   - AI Ethics
+  - Effcient IT Systems
+  - African Data
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: B.S. Applied Physics (Optical Engineering Focus) & B.S. Informatics (Data Science Focus)
+    institution: University of Washington Seattle
+    #start: 2015-09-01
+    #end: 2019-06-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis in progress on the application of machine learning techniques on nano-pore sequencing data.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  # - degree: MS Computer Science
+  #   institution: Carnegie Mellon University
+  #   start: 2013-09-01
+  #   end: 2015-05-31
+  # - degree: BS Computer Science
+  #   institution: MIT
+  #   start: 2009-09-01
+  #   end: 2013-05-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Data Science Intern
+    org: Fred Hutch
+    start: 2025-06-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
+      Working with large, messy, and complex pathology data to predict key clinical biomarkers with AI.
+    # button:
+    #   text: View portfolio
+    #   url: /
+    #   icon: hero/arrow-down-tray
+  - role: Undergraduate Research Intern
+    org: Applied Physics Lab @ UW
+    start: 2024-06-01
     end: 2019-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Mapped over a dozen viable artic routes researchers can traverse for exploration with geophysics techniques on geospatial data 
 
 skills:
   - name: Technical Skills
@@ -102,15 +105,15 @@ skills:
 
 languages:
   - name: English
-    level: 5
+    #level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: Amharic
+    #level: 4
     label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
