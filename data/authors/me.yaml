@@ -9,16 +9,17 @@ name:
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  # - PhD
+  # - MIEEE
 status:
   icon: "☕️"
-role: Undergraduate Student @ UW Seattle
+role: Undergraduate @ UW Seattle
 bio: |
-  Mekias Kebede is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Mekias Kebede is a Senior at the University of Washington (Seattle) studying Applied Physics 
+  (Optics Focus) and Informatics (Data Science Focus). His interests span from machine learning to optical engineering 
+  for applications within the healthcare industry. Mekias plans to apply for graduate school in the next year for a masters in Electrical Engineering so he
+  can further hone his skills within machine learning and optics. Mekias want to use his education to either
+  pursue a career in academic research or within industry by starting or joining a startup.     
 
 affiliations:
   - name: Fred Hutchinson Cancer Research Center
@@ -26,18 +27,18 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:kebedemekias@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  # - icon: brands/x
+  #   url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/mekias123
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/mekias-kebede-2486721bb/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=example
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
   - Machine Learning
@@ -49,20 +50,20 @@ interests:
   - African Data
 
 education:
-  - degree: B.S. Applied Physics (Optical Engineering Focus) & B.S. Informatics (Data Science Focus)
+  - degree: B.S. Physics
     institution: University of Washington Seattle
-    #start: 2015-09-01
-    #end: 2019-06-30
+    #start: 2022-09-01
+    #end: 2027-06-30
     summary: |
       Thesis in progress on the application of machine learning techniques on nano-pore sequencing data.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  # - degree: MS Computer Science
-  #   institution: Carnegie Mellon University
-  #   start: 2013-09-01
-  #   end: 2015-05-31
+    # button:
+    #   text: Download dissertation
+    #   url: /resume.pdf
+    #   icon: hero/arrow-down-tray
+  - degree: B.S. Informatics
+    institution: University of Washington Seattle
+      # start: 2022-09-01
+      # end: 2027-06-30
   # - degree: BS Computer Science
   #   institution: MIT
   #   start: 2009-09-01
@@ -81,7 +82,7 @@ experience:
   - role: Undergraduate Research Intern
     org: Applied Physics Lab @ UW
     start: 2024-06-01
-    end: 2019-12-31
+    end: 2024-09-10
     summary: |
       Mapped over a dozen viable artic routes researchers can traverse for exploration with geophysics techniques on geospatial data 
 
