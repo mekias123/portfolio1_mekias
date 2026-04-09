@@ -15,11 +15,11 @@ status:
   icon: "☕️"
 role: Undergraduate @ UW Seattle
 bio: |
-  Mekias Kebede is a Senior at the University of Washington (Seattle) studying Applied Physics 
-  (Optics Focus) and Informatics (Data Science Focus). His interests span from machine learning to optical engineering 
-  for applications within the healthcare industry. Mekias plans to apply for graduate school in the next year for a masters in Electrical Engineering so he
-  can further hone his skills within machine learning and optics. Mekias want to use his education to either
-  pursue a career in academic research or within industry by starting or joining a startup.     
+  Mekias is a Senior at the University of Washington studying Applied Physics 
+  and Informatics (double degree) with a focus on optics and data Science. His interests span from machine learning to optical engineering 
+  for applications within the healthcare industry. Mekias plans to apply for graduate school in the next year for a masters in Electrical 
+  Engineering so he can further hone his skills within AI/ML and optics topics. Mekias would like to use his education to
+  pursue a brief career in academic research then join industry by ideally starting or joining a startup!    
 
 affiliations:
   - name: Fred Hutchinson Cancer Research Center
@@ -79,12 +79,19 @@ experience:
     #   text: View portfolio
     #   url: /
     #   icon: hero/arrow-down-tray
+  - role: IT Consultant
+    org: University of Washington
+    start: 2025-01-01
+    end: 2024-11-10
+    summary: |
+      Help Desk for IT Ticketing @ UW Department of Architecture. Aided students and staff with computer issues and build software to automate outdated manual IT processes
   - role: Undergraduate Research Intern
     org: Applied Physics Lab @ UW
     start: 2024-06-01
     end: 2024-09-10
     summary: |
-      Mapped over a dozen viable artic routes researchers can traverse for exploration with geophysics techniques on geospatial data 
+      Mapped over a dozen viable artic routes researchers can traverse for exploration with geophysics techniques on geospatial data
+   
 
 skills:
   - name: Technical Skills
